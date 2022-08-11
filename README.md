@@ -1,4 +1,4 @@
-### QA Engineer / Тестировщик
+### Junior QA Engineer / Тестировщик
     
 
 <!--
