@@ -1,4 +1,6 @@
-### Juniour QA Engeener 👋
+### Juniour QA Engineer / Тестировщик
+    _________________________________
+ 👋
 
 <!--
 **ValleyBoy88/ValleyBoy88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
